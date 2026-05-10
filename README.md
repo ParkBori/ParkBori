@@ -67,10 +67,13 @@ Qt · Multi Thread · TCP/IP · REST API · MySQL · AWS GameLift
 
 <div align="center">
 
-<a href="포트폴리오링크">
+<a href="[박재현 포토폴리오.pdf](https://github.com/user-attachments/files/27563886/default.pdf)
+" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-PDF-blue?style=for-the-badge"/>
 </a>
 
 </div>
+
+---
 
 ---
