@@ -45,7 +45,6 @@ Qt · Multi Thread · TCP/IP · REST API · MySQL · AWS GameLift · Dedicated S
 |---|---|
 | [충돌 프레임 보간](https://www.notion.so/35dab1bd8c2c80f88380fa5f36e3b067?source=copy_link#35dab1bd8c2c80a09105d0c39d3723a7) | 저프레임 환경에서의 충돌 누락 방지 및 무기 궤적과 동일 충돌 판 |
 | [패링 시스템](링크) | 애니메이션 타이밍 기반 근접 전투 판정 시스템 |
-| [라이라 로코모션(간략화) 구현](링크) | 방향 전환 시 이동 애니메이션의 자연스러움 유지 |
 | [MVVM아키텍처를 모방한 유저 설정 시스템](링크) | UI 상태와 데이터를 분리한 설정 관리 구조 |
 | [패킷 기반 TCP/IP Send/Recive전략](링크) | 패킷을 사용한 클라이언트 서버 통신 |
 | [GAS기반 원형 감정표현 UI](https://www.notion.so/35dab1bd8c2c80f88380fa5f36e3b067?source=copy_link#35dab1bd8c2c80f28422d9989ab67226) | Ability System과 연동되는 원형 인터랙션 UI 구현 |
